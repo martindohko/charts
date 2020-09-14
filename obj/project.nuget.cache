@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VhDbu7H35NHcZOw1p3n1rQbTlMUUDPmYbEduba7wpLtjXkTod58razQ9f13xpzxt7KmiTEJG3YUb7ano/aDrkw==",
+  "dgSpecHash": "xTOD8o42XssMVbm3bc1qfK0m642tfIQM2xv3/gWRCaSAAc2WYQOBXIC9Raa1VNm5GcVjL5siX6V/G+CNoN4tdw==",
   "success": true,
-  "projectFilePath": "C:\\Models\\RFM\\NetCoreModel\\web\\GxDeps.csproj",
+  "projectFilePath": "C:\\Models\\Charts\\NetCoreModel\\web\\GxDeps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mviera\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\mviera\\.nuget\\packages\\epplus\\4.5.3.2\\epplus.4.5.3.2.nupkg.sha512",

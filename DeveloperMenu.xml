@@ -4,87 +4,9 @@
    <Charset>UTF-8</Charset>
    <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus16/</Path>
    <Object>
-      <ObjCls>0</ObjCls>
-      <ObjName>Version1.Parametros</ObjName>
-      <ObjDesc>Version1.Parametros</ObjDesc>
-      <ObjLink>version1.parametros.aspx</ObjLink>
-   </Object>
-   <Object>
       <ObjCls>13</ObjCls>
-      <ObjName>Version1.Home</ObjName>
-      <ObjDesc>Version1.Home</ObjDesc>
-      <ObjLink>version1.home.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>Version1.WWtResumenRFM</ObjName>
-      <ObjDesc>Version1.t Resumen RFMs</ObjDesc>
-      <ObjLink>version1.wwtresumenrfm.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>Version1.WPSemicirculo</ObjName>
-      <ObjDesc>Version1.WPSemicirculo</ObjDesc>
-      <ObjLink>version1.wpsemicirculo.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>Version1.WPInicio</ObjName>
-      <ObjDesc>Version1.WPInicio</ObjDesc>
-      <ObjLink>version1.wpinicio.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>Version1.WWResumenRFMGlobal</ObjName>
-      <ObjDesc>Version1.Resumen RFMGlobals</ObjDesc>
-      <ObjLink>version1.wwresumenrfmglobal.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>Version1.WebPanel1</ObjName>
-      <ObjDesc>Version1.Web Panel1</ObjDesc>
-      <ObjLink>version1.webpanel1.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>Version1.WebPanel2</ObjName>
-      <ObjDesc>Version1.Web Panel2</ObjDesc>
-      <ObjLink>version1.webpanel2.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>Version2.WPInicio</ObjName>
-      <ObjDesc>Version2.WPInicio</ObjDesc>
-      <ObjLink>version2.wpinicio.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>GAMExampleLogin</ObjName>
-      <ObjDesc>Login</ObjDesc>
-      <ObjLink>gamexamplelogin.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>GAMExampleNotAuthorized</ObjName>
-      <ObjDesc>Not Authorized</ObjDesc>
-      <ObjLink>gamexamplenotauthorized.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>GAMHome</ObjName>
-      <ObjDesc>GAM Home</ObjDesc>
-      <ObjLink>gamhome.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>GAMExampleRegisterUser</ObjName>
-      <ObjDesc>Register user</ObjDesc>
-      <ObjLink>gamexampleregisteruser.aspx</ObjLink>
-   </Object>
-   <Object>
-      <ObjCls>13</ObjCls>
-      <ObjName>GAMExampleSSOLogin</ObjName>
-      <ObjDesc>Single Sign-On</ObjDesc>
-      <ObjLink>gamexamplessologin.aspx</ObjLink>
+      <ObjName>WPInicio</ObjName>
+      <ObjDesc>WPInicio</ObjDesc>
+      <ObjLink>wpinicio.aspx</ObjLink>
    </Object>
 </Objects>

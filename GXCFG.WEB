@@ -4,42 +4,27 @@
       <sectionGroup  name="languages" type="System.Configuration.NameValueSectionHandler">
          <section  name="English" type="System.Configuration.SingleTagSectionHandler" requirePermission="false"/>
       </sectionGroup>
-      <section  name="sustainsys.saml2" type="Sustainsys.Saml2.Configuration.SustainsysSaml2Section, Sustainsys.Saml2"/>
-      <section  name="system.identityModel" type="System.IdentityModel.Configuration.SystemIdentityModelSection, System.IdentityModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
    </configSections>
    <appSettings>
       <add  key="AppMainNamespace" value="GeneXus.Programs"/>
-      <add  key="DataStore1" value="GAM"/>
-      <add  key="DataStore2" value="Default"/>
-      <add  key="DataStore-Count" value="2"/>
-      <add  key="Connection-GAM-DBMS" value="sqlserver"/>
-      <add  key="Connection-GAM-Port" value="1433"/>
-      <add  key="Connection-GAM-LockTimeout" value="0"/>
-      <add  key="Connection-GAM-LockRetryCount" value="10"/>
-      <add  key="Connection-GAM-IsolationLevel" value="CR"/>
-      <add  key="Connection-GAM-Datasource" value="paVzQzC1MHSEqwGBo6lzHb3j33+PEwa8vxiYnF7JCPn="/>
-      <add  key="Connection-GAM-User" value="Elj20MqY44RPdvT8FEpDD0=="/>
-      <add  key="Connection-GAM-Password" value="99B5bI/kahENOSqO7ue6Oe=="/>
-      <add  key="Connection-GAM-DB" value="General"/>
-      <add  key="Connection-GAM-Schema" value="AcNMu2fK7ytcxZ3B9UN+W0=="/>
-      <add  key="Connection-GAM-Opts" value=";Integrated Security=no;"/>
-      <add  key="Connection-GAM-TrnInt" value="1"/>
+      <add  key="DataStore1" value="Default"/>
+      <add  key="DataStore-Count" value="1"/>
       <add  key="Connection-Default-DBMS" value="sqlserver"/>
-      <add  key="Connection-Default-Port" value="1433"/>
+      <add  key="Connection-Default-Port" value=""/>
       <add  key="Connection-Default-LockTimeout" value="0"/>
       <add  key="Connection-Default-LockRetryCount" value="10"/>
       <add  key="Connection-Default-IsolationLevel" value="CR"/>
-      <add  key="Connection-Default-Datasource" value="paVzQzC1MHSEqwGBo6lzHb3j33+PEwa8vxiYnF7JCPn="/>
-      <add  key="Connection-Default-User" value="Elj20MqY44RPdvT8FEpDD0=="/>
-      <add  key="Connection-Default-Password" value="99B5bI/kahENOSqO7ue6Oe=="/>
-      <add  key="Connection-Default-DB" value="General"/>
+      <add  key="Connection-Default-Datasource" value="82sPNmMP8O3TlpdEZk1r8E=="/>
+      <add  key="Connection-Default-User" value="82sPNmMP8O3TlpdEZk1r8E=="/>
+      <add  key="Connection-Default-Password" value="82sPNmMP8O3TlpdEZk1r8E=="/>
+      <add  key="Connection-Default-DB" value=""/>
       <add  key="Connection-Default-Schema" value="82sPNmMP8O3TlpdEZk1r8E=="/>
-      <add  key="Connection-Default-Opts" value=";Integrated Security=no;"/>
+      <add  key="Connection-Default-Opts" value=";Integrated Security=yes;"/>
       <add  key="Connection-Default-TrnInt" value="1"/>
       <add  key="DateFormat" value="MDY"/>
       <add  key="YearLimit" value="1940"/>
       <add  key="TimeAmPmFormat" value="12"/>
-      <add  key="VER_STAMP" value="20200909.143250"/>
+      <add  key="VER_STAMP" value=""/>
       <add  key="CS_BLOB_PATH" value="PublicTempStorage"/>
       <add  key="TMPMEDIA_DIR" value="PrivateTempStorage"/>
       <add  key="PRINT_LAYOUT_METADATA_DIR" value="LayoutMetadata"/>
@@ -52,9 +37,7 @@
       <add  key="CTOD_DATE_FMT" value="L"/>
       <add  key="Culture" value="en-US"/>
       <add  key="Theme" value="Carmine"/>
-      <add  key="EnableIntegratedSecurity" value="1"/>
-      <add  key="IntegratedSecurityLoginWeb" value="gamexamplelogin,objects"/>
-      <add  key="IntegratedSecurityNotAuthorizedWeb" value="gamexamplenotauthorized,objects"/>
+      <add  key="EnableIntegratedSecurity" value="0"/>
       <add  key="MAX_CURSOR" value="100"/>
       <add  key="STATIC_CONTENT" value=""/>
       <add  key="GX_BUILD_NUMBER" value="1247300"/>
@@ -69,7 +52,7 @@
       <add  key="SMART_CACHING" value="0"/>
       <add  key="wcf:serviceHostingEnvironment:useClassicReadEntityBodyMode" value="true"/>
       <add  key="HTTP_PROTOCOL" value="Unsecure"/>
-      <add  key="CACHE_INVALIDATION_TOKEN" value="202091116254377"/>
+      <add  key="CACHE_INVALIDATION_TOKEN" value="202091417243934"/>
    </appSettings>
    <languages >
       <English  code="eng" time_fmt="12" decimal_point="." thousand_sep="," date_fmt="MDY" culture="en-US"/>

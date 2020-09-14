@@ -9640,11 +9640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Models\\RFM\\NetCoreModel\\web\\GxDeps.csproj",
+      "projectUniqueName": "C:\\Models\\Charts\\NetCoreModel\\web\\GxDeps.csproj",
       "projectName": "GxDeps",
-      "projectPath": "C:\\Models\\RFM\\NetCoreModel\\web\\GxDeps.csproj",
+      "projectPath": "C:\\Models\\Charts\\NetCoreModel\\web\\GxDeps.csproj",
       "packagesPath": "C:\\Users\\mviera\\.nuget\\packages\\",
-      "outputPath": "C:\\Models\\RFM\\NetCoreModel\\web\\obj\\",
+      "outputPath": "C:\\Models\\Charts\\NetCoreModel\\web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mviera\\AppData\\Roaming\\NuGet\\NuGet.Config"

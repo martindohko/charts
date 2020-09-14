@@ -18,12 +18,6 @@ namespace GeneXus.Programs {
    {
       public static int Reindex( IGxContext context )
       {
-         GxSilentTrnSdt obj ;
-         IGxSilentTrn trn ;
-         bool result ;
-         obj = new GeneXus.Programs.version1.SdttResumenRFM(context);
-         trn = obj.getTransaction();
-         result = trn.Reindex();
          return 1 ;
       }
 

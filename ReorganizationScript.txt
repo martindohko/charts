@@ -1,7 +1,0 @@
-ALTER TABLE [ResumenRFMGlobal] ADD [GX_AUX] nvarchar(6) NOT NULL CONSTRAINT GX_AUXResumenRFMGlobal_DEFAULT DEFAULT ''
-ALTER TABLE [ResumenRFMGlobal] DROP CONSTRAINT GX_AUXResumenRFMGlobal_DEFAULT
-UPDATE [ResumenRFMGlobal] SET [GX_AUX] = SUBSTRING([Periodo], 1, 6)
-ALTER TABLE [ResumenRFMGlobal] DROP COLUMN [Periodo]
-sp_rename '[ResumenRFMGlobal].GX_AUX', 'Periodo'
-ALTER TABLE [ResumenRFMGlobal] ADD PRIMARY KEY([Periodo])
-
