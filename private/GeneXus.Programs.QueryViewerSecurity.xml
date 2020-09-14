@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects xmlns="qv">
+  <Object name="Version1.Home" securityLevel="SecurityLow" permissionPrefix="Home" xmlns="qv" />
+  <Object name="Version1.NotAuthorized" securityLevel="SecurityLow" permissionPrefix="NotAuthorized" xmlns="qv" />
+  <Object name="Version1.ViewtResumenRFM" securityLevel="SecurityLow" permissionPrefix="ViewtResumenRFM" xmlns="qv" />
+  <Object name="Version1.WWtResumenRFM" securityLevel="SecurityLow" permissionPrefix="WWtResumenRFM" xmlns="qv" />
+  <Object name="Version1.WWResumenRFMGlobal" securityLevel="SecurityLow" permissionPrefix="WWResumenRFMGlobal" xmlns="qv" />
+  <Object name="GAMHome" securityLevel="SecurityLow" permissionPrefix="GAMHome" xmlns="qv" />
+  <Object name="GAMExampleRecoverPasswordStep2" securityLevel="SecurityNone" permissionPrefix="GAMExampleRecoverPasswordStep2" xmlns="qv" />
+  <Object name="GAMExampleSSOLogin" securityLevel="SecurityNone" permissionPrefix="GAMExampleSSOLogin" xmlns="qv" />
+  <Object name="Version1.Parametros" securityLevel="SecurityLow" permissionPrefix="Parametros" xmlns="qv" />
+  <Object name="Version1.Gx0040" securityLevel="SecurityLow" permissionPrefix="Gx0040" xmlns="qv" />
+  <Object name="GAMExampleRegisterUser" securityLevel="SecurityNone" permissionPrefix="GAMExampleRegisterUser" xmlns="qv" />
+  <Object name="Version1.tResumenRFM" securityLevel="SecurityLow" permissionPrefix="tResumenRFM" xmlns="qv" />
+  <Object name="Version1.WPSemicirculo" securityLevel="SecurityLow" permissionPrefix="WPSemicirculo" xmlns="qv" />
+  <Object name="Version1.WPInicio" securityLevel="SecurityLow" permissionPrefix="WPInicio" xmlns="qv" />
+  <Object name="Version1.WebPanel2" securityLevel="SecurityLow" permissionPrefix="WebPanel2" xmlns="qv" />
+  <Object name="GAMExampleNotAuthorized" securityLevel="SecurityNone" permissionPrefix="GAMExampleNotAuthorized" xmlns="qv" />
+  <Object name="GAMExampleRecoverPasswordStep1" securityLevel="SecurityNone" permissionPrefix="GAMExampleRecoverPasswordStep1" xmlns="qv" />
+  <Object name="GAMRemoteLogin" securityLevel="SecurityNone" permissionPrefix="GAMRemoteLogin" xmlns="qv" />
+  <Object name="Version1.ResumenRFMGlobal" securityLevel="SecurityLow" permissionPrefix="ResumenRFMGlobal" xmlns="qv" />
+  <Object name="Version1.WebPanel1" securityLevel="SecurityLow" permissionPrefix="WebPanel1" xmlns="qv" />
+  <Object name="Version2.WPInicio" securityLevel="SecurityLow" permissionPrefix="WPInicio" xmlns="qv" />
+  <Object name="GAMExampleLogin" securityLevel="SecurityNone" permissionPrefix="GAMExampleLogin" xmlns="qv" />
+  <Object name="GAMExampleChangePassword" securityLevel="SecurityNone" permissionPrefix="GAMExampleChangePassword" xmlns="qv" />
+  <Object name="GAMExampleUpdateRegisterUser" securityLevel="SecurityNone" permissionPrefix="GAMExampleUpdateRegisterUser" xmlns="qv" />
+  <Object name="Version1.Gx0010" securityLevel="SecurityLow" permissionPrefix="Gx0010" xmlns="qv" />
+  <Object name="Version1.Gx0030" securityLevel="SecurityLow" permissionPrefix="Gx0030" xmlns="qv" />
+</Objects>

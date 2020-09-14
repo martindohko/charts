@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+<ItemGroup>
+</ItemGroup>
+
+<ItemGroup>
+ 	<Compile Include="$(WebDirectory)\type_SdtGAMExampleSDTApplicationData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerFiltersChangedData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerFiltersChangedData_ChangedFilter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerFiltersChangedData_Filter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerItemClickData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerItemClickData_Element.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerItemClickData_Filter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerValuesHighlightedData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerValuesHighlightedData_Element.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtDashboardViewerValuesHighlightedData_Filter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtGoogleChart.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtGoogleChart_Series.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtGridState.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtGridState_FilterValue.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtLinkList_LinkItem.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtProgramNames_ProgramName.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_Filter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_ExpandCollapse.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_AxisOrder.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_Format.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_Format_ValueStyle.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_Format_ConditionalStyle.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_Grouping.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerAxes_Axis_Actions.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerDragAndDropData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerFilterChangedData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemClickData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemClickData_Element.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemClickData_Filter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemCollapseData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemDoubleClickData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemDoubleClickData_Element.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemDoubleClickData_Filter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerItemExpandData.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtQueryViewerParameters_Parameter.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtResumen.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtSDTCorte.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtSDTRFMAct.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtTabOptions_TabOptionsItem.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtTransactionContext.cs" />
+ 	<Compile Include="$(WebDirectory)\version1\type_SdtTransactionContext_Attribute.cs" />
+
+</ItemGroup>
+
+</Project>
